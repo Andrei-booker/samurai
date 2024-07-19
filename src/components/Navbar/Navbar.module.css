@@ -1,0 +1,19 @@
+.nav {
+	padding: 20px;
+	grid-area: nav;
+	background-color: #ebeef3;
+	border-right: 1px solid #00000026;
+}
+
+.navItem {
+	color: grey;
+	text-decoration: none;
+}
+
+.navItem:hover {
+	color: #1890ff;
+}
+
+.navItem:focus {
+	color: #1890ff;
+}

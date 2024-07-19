@@ -1,0 +1,22 @@
+.paginator {
+  text-align: center;
+  padding: 10px;
+}
+
+.pageNumber {
+  cursor: pointer;
+  padding-right: 5px;
+}
+
+.pageNumber:hover {
+  font-weight: bold;
+}
+
+.selectedPage {
+  font-weight: bold;
+  padding-right: 5px;
+}
+
+.prevButton {
+  margin-right: 5px;
+}
